@@ -1,11 +1,11 @@
+import Home from "./pages/home"
 
 
-function App() {
+const App:React.FC = () => {
   return (
- <>
- <div className="bg-amber-600 text-green-600  ">Hello</div>
- 
- </>
+    <div className='px-10'>
+     <Home/>
+    </div>
   )
 }
 
