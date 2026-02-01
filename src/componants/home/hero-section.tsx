@@ -5,7 +5,7 @@ const HeroSection: React.FC = () => {
     <div className="w-full flex flex-col justify-center h-[80vh] overflow-hidden items-center">
       <div className="w-full flex justify-around items-center gap-24">
         <div>
-          <div className="flex flex-col gap-10">
+          <div className="flex flex-col gap-10 font-black">
             <h1 className="font-bold text-5xl">
               Hi, I am John, <br /> Creative Technologist
             </h1>
@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
             </p>
           </div>
 
-          <button className="mt-5 px-3 py-2 bg-blend-hard-light text-red-500 rounded-sm cursor-pointer hover:scale-105 transition-all duration-300">
+          <button className="mt-5 px-3  text-white">
             Download Resume
           </button>
         </div>

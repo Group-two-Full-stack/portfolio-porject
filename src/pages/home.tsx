@@ -9,7 +9,7 @@ import RecentPosts111 from "../componants/home/recentpost"
 
 const Home = () => {
   return (
-    <div>
+    <div className=" text-black bg-white">
         <Navbar/>
         <HeroSection/>
         <RecentPosts1/>

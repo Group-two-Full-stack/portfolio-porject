@@ -4,8 +4,8 @@ const RecentPosts1:React.FC = () => {
   return (
     <div className='w-full'>
         <div className='w-full flex justify-between px-30'>
-            <button className='cursor-pointer'>Recent Posts</button>
-            <button className='text-blue-400 cursor-pointer'> View all </button>
+            <button className='cursor-pointer text-white'>Recent Posts</button>
+            <button className='text-white cursor-pointer'> View all </button>
         </div>
     </div>
   )
