@@ -1,6 +1,6 @@
 import React from 'react'
 
-const RecentPosts:React.FC = () => {
+const RecentPosts1:React.FC = () => {
   return (
     <div className='w-full'>
         <div className='w-full flex justify-between px-30'>
@@ -11,4 +11,4 @@ const RecentPosts:React.FC = () => {
   )
 }
 
-export default RecentPosts
+export default RecentPosts1
