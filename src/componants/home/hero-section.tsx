@@ -23,9 +23,14 @@ const HeroSection: React.FC = () => {
         </div>
         
 
-        <div>
-          <img className="w-75" src="./Ellipse 1.jpg" alt="" />
-        </div>
+<div className="w-64 h-64 rounded-full overflow-hidden">
+  <img
+    src="./Ellipse 1.jpg"
+    alt="Profile"
+    className="w-full h-full object-cover"
+  />
+</div>
+
       </div>
     </div>
   );

@@ -24,7 +24,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <a href="#blog" className="text-gray-400 hover:text-[var(--color-primary)] transition-colors text-sm br red">
-                                    MOhamedddddd
+                                    groupTwo
                                 </a>
                             </li>
                             <li>

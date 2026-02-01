@@ -11,14 +11,14 @@ export default function FeaturedWorks() {
       id: 2,
       title: 'Vibrant Portraits of 2020',
       category: 'Illustration',
-      image: 'https://images.unsplash.com/photo-1578926314433-d374eebc1e28?w=400&h=300&fit=crop',
+        image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop',
       description: 'Amet minim mollit non deserunt ullamco est sit aliqua consequat aute officia exercitation sunt reprehenderit.'
     },
     {
       id: 3,
       title: '36 Days of Malayalam type',
       category: 'Typography',
-      image: 'https://images.unsplash.com/photo-1518611505868-48510c2e022f?w=400&h=300&fit=crop',
+   image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop',
       description: 'Amet minim mollit non deserunt ullamco est sit aliqua consequat aute officia exercitation sunt reprehenderit.'
     }
   ]
